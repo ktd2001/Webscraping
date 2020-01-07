@@ -6,5 +6,5 @@ SQLite to create database of game data.
 
 **Image of organzied gaming data in spreadsheet:**
 
-<img src="webscrape_spreadsheet.jpg" width="400">
+<img src="webscape_spreadsheet.jpg" width="400">
 
