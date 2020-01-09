@@ -6,7 +6,7 @@ SQLite to create database of game data.
 
 **Image of organzied gaming data in spreadsheet:**
 
-713 lines of data were easily extracted from website
+Data easily extracted from website
 
-<img src="webscape_spreadsheet.jpg" width="400">
+<img src="webscrape_spreadsheet.jpg" width="400">
 
