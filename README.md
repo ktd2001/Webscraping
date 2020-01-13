@@ -1,8 +1,7 @@
 # Webscraping
 
 **Project Content:**
-Project involved webscraping of gaming data from Wikipedia using Pandas to manipulate the data and 
-SQLite to create database of game data.  
+Project involved webscraping of gaming data from Wikipedia using Pandas and SQL to manipulate data and create database of game information.  
 
 **Image of organized gaming data in spreadsheet:**
 
