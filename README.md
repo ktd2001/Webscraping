@@ -1,4 +1,4 @@
-# Webscraping and Sequel
+# Webscraping and SQL
 
 **Project Content:**
 Project involved webscraping of gaming data from Wikipedia using Pandas and SQL to manipulate data and create database of game information.  
